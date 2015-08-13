@@ -1,15 +1,15 @@
 {
-  "name": "gulp-rev-collector",
-  "version": "1.0.0",
+  "name": "gulp-require-config",
+  "version": "0.0.1",
   "description": "Static asset revision data collector from manifests, generated from different streams, and replace their links in html template.",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shonny-ua/gulp-rev-collector"
+    "url": "https://github.com/zxbin2000/gulp-require-config"
   },
   "author": {
-    "name": "Oleksandr Ovcharenko",
-    "email": "shonny.ua@gmail.com"
+    "name": "Xiaobin Zhuang",
+    "email": "zxbin2000@gmail.com"
   },
   "main": "index.js",
   "files": [
@@ -41,9 +41,5 @@
   },
   "devDependencies": {
     "mocha": "*"
-  },
-  "bugs": {
-    "url": "https://github.com/shonny-ua/gulp-rev-collector/issues"
-  },
-  "homepage": "https://github.com/shonny-ua/gulp-rev-collector"
+  }
 }

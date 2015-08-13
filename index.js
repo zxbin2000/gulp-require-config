@@ -5,7 +5,7 @@ var PluginError  = gutil.PluginError;
 var through      = require('through2');
 var path         = require('path');
 
-var PLUGIN_NAME  = 'gulp-rev-collector';
+var PLUGIN_NAME  = 'gulp-require-config';
 
 var defaults = {
     revSuffix: '-[0-9a-f]{8,10}-?'
